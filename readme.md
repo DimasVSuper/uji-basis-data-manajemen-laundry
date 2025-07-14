@@ -1,7 +1,7 @@
 # 🧺 Database Laundry - Semester 2
 
 ## 📋 Deskripsi
-Database ini dibuat untuk memenuhi tugas kuliah **Basis Data Semester 2**. Sistem ini digunakan untuk mengelola data laundry secara lengkap, mulai dari pelanggan, karyawan, layanan, produk persediaan, pesanan, detail pesanan, hingga log persediaan.
+Database ini dibuat untuk memenuhi tugas kuliah **Uji Basis Data**. Sistem ini digunakan untuk mengelola data laundry secara lengkap, mulai dari pelanggan, karyawan, layanan, produk persediaan, pesanan, detail pesanan, hingga log persediaan.
 
 ## 🗂️ Struktur Tabel
 

@@ -11,7 +11,6 @@
 -- RESET/Delete Database
 DROP DATABASE laundry_db;
 
-
 -- Membuat database
 CREATE DATABASE IF NOT EXISTS laundry_db;
 USE laundry_db;

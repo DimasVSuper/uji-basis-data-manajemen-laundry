@@ -259,7 +259,7 @@ ORDER BY total_belanja DESC;
 
 ## 📞 Support & Contact
 Untuk pertanyaan atau bantuan terkait database ini, silahkan hubungi:
-- **Lead Admin**: Dimas Bayu Nugroho (19240384)
+- **Lead Administrator**: Dimas Bayu Nugroho (19240384)
 - **Workshop**: Uji Basis Data Manajemen Laundry - PT Zahir International
 - **Repository**: [GitHub Repository](https://github.com/DimasVSuper/uji-basis-data-manajemen-laundry-kelompok-7)
 

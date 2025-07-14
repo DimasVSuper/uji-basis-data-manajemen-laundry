@@ -1,9 +1,8 @@
 # 📚 Dokumentasi Database Laundry - Kelompok 7
 
 ## 📋 Informasi Proyek
-- **Mata Kuliah**: Basis Data Semester 2
 - **Perusahaan**: PT Zahir International
-- **Proyek**: Uji Basis Data Manajemen Laundry
+- **Event**: Workshop Uji Basis Data Manajemen Laundry
 - **Kelompok**: 7
 - **Tanggal**: 14 Juli 2025
 - **Repository**: [uji-basis-data-manajemen-laundry-kelompok-7](https://github.com/DimasVSuper/uji-basis-data-manajemen-laundry-kelompok-7)
@@ -21,12 +20,13 @@
 | 8 | Kristian Alexander Wily Wijaya | 19241815 |
 
 ## 🎯 Tujuan Proyek
-Sebagai bagian dari **Uji Basis Data Manajemen Laundry** dari **PT Zahir International**, proyek ini bertujuan untuk merancang dan mengimplementasikan database komprehensif untuk sistem manajemen laundry yang mencakup:
+Sebagai bagian dari **Workshop Uji Basis Data Manajemen Laundry** dari **PT Zahir International**, proyek ini bertujuan untuk merancang dan mengimplementasikan database komprehensif untuk sistem manajemen laundry yang mencakup:
 - Pengelolaan data pelanggan dan karyawan
 - Sistem pemesanan dan layanan laundry
 - Tracking persediaan bahan cuci
 - Laporan transaksi dan pendapatan
 - Demonstrasi kemampuan desain database relasional
+- Pembelajaran praktis melalui hands-on workshop
 
 ## 🏗️ Arsitektur Database
 
@@ -260,8 +260,8 @@ ORDER BY total_belanja DESC;
 ## 📞 Support & Contact
 Untuk pertanyaan atau bantuan terkait database ini, silahkan hubungi:
 - **Lead Admin**: Dimas Bayu Nugroho (19240384)
-- **Project**: Uji Basis Data Manajemen Laundry - PT Zahir International
+- **Workshop**: Uji Basis Data Manajemen Laundry - PT Zahir International
 - **Repository**: [GitHub Repository](https://github.com/DimasVSuper/uji-basis-data-manajemen-laundry-kelompok-7)
 
 ---
-*Dokumentasi ini dibuat sebagai bagian dari Uji Basis Data Manajemen Laundry dari PT Zahir International - Semester 2*
+*Dokumentasi ini dibuat sebagai bagian dari Workshop Uji Basis Data Manajemen Laundry dari PT Zahir International - Semester 2*

@@ -598,4 +598,4 @@ LIMIT 100;
 
 ---
 
-*Dokumentasi SQL ini dibuat untuk pembelajaran Database Management System dalam konteks Uji Basis Data Manajemen Laundry - PT Zahir International*
+*Dokumentasi SQL ini dibuat untuk pembelajaran Database Management System dalam konteks Workshop Uji Basis Data Manajemen Laundry - PT Zahir International*

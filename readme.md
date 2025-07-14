@@ -102,7 +102,7 @@ Database ini dibuat untuk memenuhi tugas kuliah **Uji Basis Data**. Sistem ini d
 - **Dimas Bayu Nugroho** (19240384) (Lead Administrator)
 - **M. Riefalldo Ramadhan** (19241047) (Technical Writer)
 - **Daulia Artika Samdani** (19240995) (Documentation & Report Writer)
-- **Mochammad Rayhan** (19241572) (Research & Documentation Analyst)
+- **Mochammad Rayhan** (19241572) (Documentation Analyst & Administrator)
 - **Anis Nurbaiti** (19240071) (Documentation & Report Writer)
 - **Raden Yudhistira Wicaksono** (19241616) (Technical Writer)
 - **Ichwan Fauzan** (19240621) (Documentation Analyst)

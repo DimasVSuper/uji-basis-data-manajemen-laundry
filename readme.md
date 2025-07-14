@@ -84,7 +84,7 @@ Database ini dibuat untuk memenuhi tugas kuliah **Basis Data Semester 2**. Siste
 - **pesanan** → **detail_pesanan** (one-to-many)
 - **layanan** → **detail_pesanan** (one-to-many)
 - **produk_persediaan** → **log_persediaan** (one-to-many)
-- **pesanan** → **log_persediaan** (one-to-many, optional)
+- **pesanan** → **log_persediaan** (one-to-many, nullable)
 
 ## 📁 File yang Tersedia
 - `laundry_db.sql` - Script SQL lengkap dengan DDL, data dummy, dan skenario DML

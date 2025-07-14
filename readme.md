@@ -99,14 +99,14 @@ Database ini dibuat untuk memenuhi tugas kuliah **Basis Data Semester 2**. Siste
 - ✅ **ENUM Types**: Untuk pilihan nilai yang terbatas
 
 ## 👥 Peserta
-- **Dimas Bayu Nugroho** (19240384)
-- **M. Riefalldo Ramadhan** (19241047)
-- **Daulia Artika Samdani** (19240995)
-- **Mochammad Rayhan** (19241572)
-- **Anis Nurbaiti** (19240071)
-- **Raden Yudhistira Wicaksono** (19241616)
-- **Ichwan Fauzan** (19240621)
-- **Kristian Alexander Wily Wijaya** (19241815)
+- **Dimas Bayu Nugroho** (19240384) (Lead Administrator)
+- **M. Riefalldo Ramadhan** (19241047) (Technical Writer)
+- **Daulia Artika Samdani** (19240995) (Documentation & Report Writer)
+- **Mochammad Rayhan** (19241572) (Research & Documentation Analyst)
+- **Anis Nurbaiti** (19240071) (Documentation & Report Writer)
+- **Raden Yudhistira Wicaksono** (19241616) (Technical Writer)
+- **Ichwan Fauzan** (19240621) (Documentation Analyst)
+- **Kristian Alexander Wily Wijaya** (19241815) (Technical Writer)
 
 ---
 

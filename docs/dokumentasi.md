@@ -5,7 +5,7 @@
 - **Event**: Workshop Uji Basis Data Manajemen Laundry
 - **Kelompok**: 7
 - **Tanggal**: 14 Juli 2025
-- **Repository**: [uji-basis-data-manajemen-laundry-kelompok-7](https://github.com/DimasVSuper/uji-basis-data-manajemen-laundry-kelompok-7)
+- **Repository**: [uji-basis-data-manajemen-laundry](https://github.com/DimasVSuper/uji-basis-data-manajemen-laundry)
 
 ## 👥 Anggota Kelompok
 | No | Nama | NIM |
